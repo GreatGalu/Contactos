@@ -173,5 +173,10 @@ namespace Contactos
                 }
             }
         }
+
+        private void dgvContactos_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
